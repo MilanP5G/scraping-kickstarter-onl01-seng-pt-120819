@@ -20,8 +20,7 @@ projects = {}
     }
   end
   projects 
-end 
-end 
+
   
 #projects:
 # kickstarter.css("li.project.grid_4")
